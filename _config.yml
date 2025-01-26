@@ -33,7 +33,7 @@ excerpt_separator: "<!--more-->"
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: hy2611@nyu.edu
   facebook:
   flickr:
   github: "Harry-Yang0518"
@@ -58,7 +58,7 @@ url: "https://Harry-Yang0518.github.io/ossd-s25-weekly"
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/ossd-s25-weekly"
+baseurl: "/Harry-Yang0518-weekly"
 
 # !! You don't need to change any of the configuration flags below !!
 #   (but you may, if you know what you are doing)
