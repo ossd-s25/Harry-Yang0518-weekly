@@ -5,7 +5,7 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: "Harry Yang"
+name: Harry Yang
 
 # CUSTOMIZE
 # Short bio or description about you (displayed in the header)
@@ -19,7 +19,7 @@ description: "CSCI-UA 480 Student, Aspiring Software Engineer, Spring 2025"
 # user name for GitHub.
 avatar: /Harry-Yang0518-weekly/images/icon.png
 # fallback text in case image is not served and/or for screen readers
-avatar_alt_text: "Profile Avatar"
+avatar_alt_text: Avatar
 
 # use this separator in your blogs to indicate where the abbreviated part ends and 
 # the "Read more ..." link appears 
@@ -51,7 +51,7 @@ footer-links:
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://Harry-Yang0518.github.io/ossd-s25-weekly"
+url: "https://ossd-s25.github.io//Harry-Yang0518-weekly"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
