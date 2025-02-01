@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 1   | https://www.openstreetmap.org/note/4610491    | OpenStreeMap    |   I added a new bike shop and repair store on the map.    |
 |     |     |     |      |
 |     |     |     |      |
