@@ -24,5 +24,5 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | Feb 1   | https://www.openstreetmap.org/note/4610491    | OpenStreeMap    |   I added a new bike shop and repair store on the map.    |
 |Feb 9     |   https://en.wikipedia.org/wiki/Special:Contributions/Harry-Yang040518   | Wikipedia | I added categories to improve the article classification of Prime Minister's Press Secretary (Bangladesh) page.  |  
-|Feb 16     |https://en.wikipedia.org/wiki/Special:Contributions/Harry-Yang040518     | Added a detailed provincial breakdown of the G25 Changchun–Shenzhen Expressway |  
+|Feb 16     |https://en.wikipedia.org/wiki/Special:Contributions/Harry-Yang040518 |Wikipedia    | Added a detailed provincial breakdown of the G25 Changchun–Shenzhen Expressway |  
 
