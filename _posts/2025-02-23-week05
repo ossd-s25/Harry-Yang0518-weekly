@@ -4,6 +4,7 @@ title: Week 5
 ---
 
 ## Thoughts about different projects so far
+
 This week, out team evaluated PyTorch, which is an open-source library used for neural network and machine learning programns. It's written in python, C++, and cuda. I think it is suitable for advanced developers to contribute since it requires proficient knowledge on cuda and machine learning, and the community is large and avtive. Therefore it's not suitable for beginners to contribute. 
 
 I'm also very interested in the VS-Code, it's my primary used IDE and I love the various kind of extensions such as ssh remote, which helped me alot. It's deveoped and primary maintained by Microsoft in 2015, but now it is a open source project. However, it is also not very beginner-friendly since it's very active and has too many lines of code. 
@@ -13,4 +14,5 @@ I'm also very interested in the VS-Code, it's my primary used IDE and I love the
 One most exciting thing about working on an open sourced project is that the only think that you deliver to others are the code. Some people don't really like or good at communicating with others face-to-face, so they will lose a lot of ablity to show their talent. But when contributing to the opensource project, they don't have about how to talk to people, so they feel more relaxed because they are doing what they are good at, that's why we are able to see so many outstanding contributions on github. 
 
 ## What is the biggest challenge and how to overcome?
+
 I think the biggest challenge is to find a suitable project. Some projects requires complex environment, others requires proficent domain knowledge. Meanwhile, some easy projects are not active. I think we can try to use the search functions in GenAI, to specify the requirements then find the desirable project. 
