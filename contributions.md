@@ -26,3 +26,4 @@ Replace the first row with your own contribution.
 |Feb 9     |   https://en.wikipedia.org/wiki/Special:Contributions/Harry-Yang040518   | Wikipedia | I added categories to improve the article classification of Prime Minister's Press Secretary (Bangladesh) page.  |  
 |Feb 16     |https://en.wikipedia.org/wiki/Special:Contributions/Harry-Yang040518 |Wikipedia    | Added a detailed provincial breakdown of the G25 Changchun–Shenzhen Expressway |  
 
+|Feb23|[:---](https://www.openstreetmap.org/note/4481417#map=18/39.987380/116.399438&layers=N)|OpenStreeMap|Resolved the issue|
