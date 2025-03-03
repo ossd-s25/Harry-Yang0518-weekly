@@ -28,4 +28,4 @@ Replace the first row with your own contribution.
 
 |Feb23|[OpenStreetMap](https://www.openstreetmap.org/note/4481417#map=18/39.987380/116.399438&layers=N)|Resolved  an Issue |Update the name for a building|
 
-|Mar 2[OpenStreetMap](https://www.openstreetmap.org/note/4500592#map=17/39.971241/116.309938&layers=N)|Resolved  an Issue|Added the name for a football cort|
+|Mar 2|[OpenStreetMap](https://www.openstreetmap.org/note/4500592#map=17/39.971241/116.309938&layers=N)|Resolved  an Issue|Added the name for a football cort|
