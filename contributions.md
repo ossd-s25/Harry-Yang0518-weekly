@@ -29,3 +29,7 @@ Replace the first row with your own contribution.
 |Feb23|[OpenStreetMap](https://www.openstreetmap.org/note/4481417#map=18/39.987380/116.399438&layers=N)|Resolved  an Issue |Update the name for a building|
 
 |Mar 2|[OpenStreetMap](https://www.openstreetmap.org/note/4500592#map=17/39.971241/116.309938&layers=N)|Resolved  an Issue|Added the name for a football cort|
+
+|Mar 30|[Huggingface](https://github.com/huggingface/datasets/issues/7457)|Resolved a document issut|mention the HF_DATASETS_CACHE in document|
+
+|Apr 1|[Huggingface](https://github.com/huggingface/datasets/issues/6848)|Discussed the issue with others|Remind the issue might already be solved|
