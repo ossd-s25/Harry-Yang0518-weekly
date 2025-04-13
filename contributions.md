@@ -11,26 +11,16 @@ Type of the contribution should be "Wikipedia edit", "OpenStreet Map feature", "
 The description should include a brief summary of what you did.
 
 The link should bring us to a public page that shows your contribution. 
-
-Replace the first row with your own contribution. 
-
 -->
 
-
-
-
-
-| Date #       | Contribution (Link)  | Type  | Description |
-|---|:---|:---|:---|
-| Feb 1   | [OpenStreeMap](https://www.openstreetmap.org/note/4610491)    | Opened an Issue    |   I added a new bike shop and repair store on the map.    |
-|Feb 9     |   [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Harry-Yang040518)   | Contrubution | I added categories to improve the article classification of Prime Minister's Press Secretary (Bangladesh) page.  |  
-|Feb 16     |  [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Harry-Yang040518) | Contrubution    | Added a detailed provincial breakdown of the G25 Changchun–Shenzhen Expressway |  
-
-|Feb23|[OpenStreetMap](https://www.openstreetmap.org/note/4481417#map=18/39.987380/116.399438&layers=N)|Resolved  an Issue |Update the name for a building|
-
-|Mar 2|[OpenStreetMap](https://www.openstreetmap.org/note/4500592#map=17/39.971241/116.309938&layers=N)|Resolved  an Issue|Added the name for a football cort|
-
-| Mar 30 | [Huggingface](https://github.com/huggingface/datasets/issues/7457)  | GitHub Issue | Suggested including `HF_DATASETS_CACHE` in the official documentation to clarify usage for custom cache paths. |
-| Apr 1  | [Huggingface](https://github.com/huggingface/datasets/issues/6848)  | GitHub Issue | Commented to remind maintainers that the issue may already be resolved and could potentially be closed.        |
-| Apr 7  | [Huggingface](https://github.com/huggingface/datasets/issues/7480)  | GitHub Issue | Investigated behavior where `HF_DATASETS_CACHE` is ignored; shared debugging context and planned further testing. |
-| Apr 13 | [Huggingface](https://github.com/huggingface/datasets/issues/7475)  | GitHub Issue | Contributed to the discussion on streaming metadata download failures with local paths; proposed improvements. |
+| Date   | Contribution (Link)                                                                 | Type               | Description                                                                                                     |
+|--------|--------------------------------------------------------------------------------------|--------------------|-----------------------------------------------------------------------------------------------------------------|
+| Feb 1  | [OpenStreetMap](https://www.openstreetmap.org/note/4610491)                         | OpenStreetMap Note | Added a new bike shop and repair store to the map.                                                              |
+| Feb 9  | [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Harry-Yang040518)   | Wikipedia Edit     | Added categories to improve article classification on the *Prime Minister's Press Secretary (Bangladesh)* page. |
+| Feb 16 | [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Harry-Yang040518)   | Wikipedia Edit     | Added a detailed provincial breakdown of the G25 Changchun–Shenzhen Expressway.                                |
+| Feb 23 | [OpenStreetMap](https://www.openstreetmap.org/note/4481417#map=18/39.987380/116.399438&layers=N) | OpenStreetMap Note | Resolved a name issue by updating the name of a building.                                                       |
+| Mar 2  | [OpenStreetMap](https://www.openstreetmap.org/note/4500592#map=17/39.971241/116.309938&layers=N) | OpenStreetMap Note | Resolved an issue by adding the name of a football court.                                                       |
+| Mar 30 | [Hugging Face](https://github.com/huggingface/datasets/issues/7457)                 | GitHub Issue       | Suggested including `HF_DATASETS_CACHE` in documentation for better clarity on cache path usage.               |
+| Apr 1  | [Hugging Face](https://github.com/huggingface/datasets/issues/6848)                 | GitHub Issue       | Commented to remind maintainers that the issue may already be resolved and suggested closure.                   |
+| Apr 7  | [Hugging Face](https://github.com/huggingface/datasets/issues/7480)                 | GitHub Issue       | Investigated issue where `HF_DATASETS_CACHE` was ignored; shared insights and proposed further testing.         |
+| Apr 13 | [Hugging Face](https://github.com/huggingface/datasets/issues/7475)                 | GitHub Issue       | Contributed to discussion on streaming metadata download failures; suggested improvements for local paths.      |
