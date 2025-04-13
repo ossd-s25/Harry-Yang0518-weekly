@@ -30,6 +30,7 @@ Replace the first row with your own contribution.
 
 |Mar 2|[OpenStreetMap](https://www.openstreetmap.org/note/4500592#map=17/39.971241/116.309938&layers=N)|Resolved  an Issue|Added the name for a football cort|
 
-|Mar 30|[Huggingface](https://github.com/huggingface/datasets/issues/7457)|Resolved a document issut|mention the HF_DATASETS_CACHE in document|
-
-|Apr 1|[Huggingface](https://github.com/huggingface/datasets/issues/6848)|Discussed the issue with others|Remind the issue might already be solved|
+| Mar 30 | [Huggingface](https://github.com/huggingface/datasets/issues/7457)  | GitHub Issue | Suggested including `HF_DATASETS_CACHE` in the official documentation to clarify usage for custom cache paths. |
+| Apr 1  | [Huggingface](https://github.com/huggingface/datasets/issues/6848)  | GitHub Issue | Commented to remind maintainers that the issue may already be resolved and could potentially be closed.        |
+| Apr 7  | [Huggingface](https://github.com/huggingface/datasets/issues/7480)  | GitHub Issue | Investigated behavior where `HF_DATASETS_CACHE` is ignored; shared debugging context and planned further testing. |
+| Apr 13 | [Huggingface](https://github.com/huggingface/datasets/issues/7475)  | GitHub Issue | Contributed to the discussion on streaming metadata download failures with local paths; proposed improvements. |
